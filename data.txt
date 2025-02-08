@@ -1,0 +1,3 @@
+Name: Nui
+Age: 30
+Favorite Color: Bluberry pie
